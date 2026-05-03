@@ -1,0 +1,21 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"C10, C14, C16, C17, C20, C9",6,100n,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol"
+"C11, C15, C22, C23",4,1uF,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol"
+"C12, C13, C21",3,10uF,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol"
+C18,1,11u,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol"
+"C2, C3, C4, C5, C6",5,0.1 uF,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol"
+"C7, C8",2,10 pF,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol"
+J1,1,USB_A,usb-a-PCB,,,,tht,USB Type A connector
+L1,1,2.0 nH (500mA),L_0201_0603Metric,,,,smt,Inductor
+L2,1,24 nH,L_0201_0603Metric,,,,smt,Inductor
+"R1, R2",2,5k,R_0201_0603Metric,,,,smt,"Resistor, small symbol"
+R4,1,4m,R_0201_0603Metric,,,,smt,"Resistor, small symbol"
+R5,1,10k,R_0201_0603Metric,,,,smt,"Resistor, small symbol"
+R6,1,Short Pad,R_0201_0603Metric,,,Yes,smt,"Resistor, small symbol"
+R7,1,Short Pad,R_0201_0603Metric,,,Yes,smt,"Resistor, small symbol"
+U1,1,ESP32-S3,QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm_1,,,,smt,"Microcontroller, Wi-Fi 802.11b/g/n, Bluetooth, 32bit"
+U10,1,AT25XE321D-UUN-T,AT25XE321D-UUN-T,,,,smt,32-Mbit serial peripheral interface (SPI) Flash memory
+"U2, U3, U4, U5, U6",5,19-C47/RSGHBHC-5V01/2T,19-C47&slash_RSGHBHC-5V01&slash_2T_EVE,,,,smt,
+U7,1,USBLC6-2SC6,SOT-666,,,,smt,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+U9,1,TLV77333PDQNR,SUP_TPS3831L30DQNR,,,,smt,"TLV773 300mA, Small-Size, High-PSRR, Low-Dropout Regulator"
+Y1,1,40MHz (±10ppm),XTAL_FW400WFMR1,,FW400WFMR1DKR-ND or FW400WFMR1CT-ND ,,smt,"Four pin crystal, GND on pins 2 and 3"
